@@ -145,5 +145,5 @@ Finally, we did it.
 
 Hope this helped! Good luck.
 
-https://dev.to/devplate/git-learn---modefast-2bpl
+https://dev.to/prnaav9k/git-learn---modefast-2bpl
 
